@@ -1,0 +1,46 @@
+[
+  {
+    "name": "NID",
+    "value": "511=ImUe5jdvLPD08Kr5CEFTJqbhSLYCMHGDVFLIeKgiDCTDIDLRuwzuwUc2bJ8n03IqXTIFgxwj-53tFje29hCCy1_5KbFAcfCNHLWdOxdkwVDEPZC7Zv1c1AUhKrXsnST6OsOm9sjMQR262eEuY70LuOGXMBku5pamDjKa5skd6FU",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1694913657.528872,
+    "size": 178,
+    "httpOnly": true,
+    "secure": true,
+    "session": false,
+    "sameSite": "None",
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  },
+  {
+    "name": "SOCS",
+    "value": "CAISNQgEEitib3FfaWRlbnRpdHlmcm9udGVuZHVpc2VydmVyXzIwMjMwMzE0LjA2X3AxGgJlbiACGgYIgP7ToAY",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1713230457.053537,
+    "size": 91,
+    "httpOnly": false,
+    "secure": true,
+    "session": false,
+    "sameSite": "Lax",
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  },
+  {
+    "name": "CONSENT",
+    "value": "PENDING+537",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1713662453.601645,
+    "size": 18,
+    "httpOnly": false,
+    "secure": true,
+    "session": false,
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  }
+]

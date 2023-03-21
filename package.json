@@ -1,0 +1,10 @@
+{
+  "name": "gmap_scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^19.7.5"
+  }
+}
